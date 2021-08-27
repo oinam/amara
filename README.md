@@ -1,2 +1,1 @@
-# amara.site
-Amara Oinam
+# [Amara](https://amara.site)
