@@ -1,1 +1,0 @@
-# [Amara](https://amara.site)
