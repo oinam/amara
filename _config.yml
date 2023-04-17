@@ -6,7 +6,7 @@ remote_theme: oinam/oinam-jekyll
 footer:
   custom: true
 
-footer_custom: "© 2016 - <script>document.write(new Date().getFullYear())</script>. All Rights Reserved. Amara."
+footer_custom: "All Rights Reserved. Amara."
 
 styles:
   forms: false
