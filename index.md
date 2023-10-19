@@ -8,4 +8,4 @@ I’m the second daughter of [Shanta](https://oinam.mom) [Huirem](https://huirem
 
 [Laaija](https://laaija.com/) is my lovely elder sister. She loves me so much.
 
-My parents write about our family's weird, sometimes funny but mostly not-so-funny [stories](https://stories.oinam.com).
+My parents write about our family's weird, sometimes funny but mostly not-so-funny [stories](https://story.oinam.com).
